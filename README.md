@@ -1,4 +1,4 @@
-# calculadora-matrizes ~ Por Nicholas Bertolo 
+# calculadora-matrizes ~ Por Nicole Bertolo 
 
 ## Funcionalidades do Sistema
   • Calcular Determinantes.
